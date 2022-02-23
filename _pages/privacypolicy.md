@@ -10,9 +10,6 @@ February 23 2022
 # Privacy Policy
  This privacy policy is simple: You data is not recorded to be sold by the developer to any third party.  Using this app never knowingly exploits the information that rightly belongs to you. Whereever possible, identifying information has been stripped from the data, if the information was needed to be recieve information in this app such as house prices or local landmarks.
 
-<br>
-
-
 ## Which data priviledges might be asked for
  
 - Device data (for accessing the information in this app)
