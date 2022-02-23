@@ -30,11 +30,11 @@ This privacy policy was made to be compliant with General Data Protection Regula
   
 ## Can I see information that is kept about me?
 
-The information kept about you fall under these areas: Calendar, Camera Roll, Contacts and Device Data. All data is accessible to you right now on your device in the Calendar app, Camera Roll, Contacts app or in this app.
+The information kept about you fall under these areas: Calendar, Camera Roll, Contacts and Device Data. All data is accessible to you right now on your device in the Calendar app, Camera Roll, Contacts app or in the CheckMove app.
  
 ## I would like my data deleted
 
-Delete the app and your data will be deleted.
+Delete the CheckMove app and your data will be deleted.
  
 ## Who can I contact to report a privacy breach?
 
